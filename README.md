@@ -4,7 +4,7 @@
 
 ## 📄 Contract Info
 
-- 📍 Address: `0x684720f629BF099C6E930da27143Add8b1393778`
+- 📍 Address: `0x446a66c30297dE82f0ab6751a8038e1713855e6d`
 - 🔗 Network: Monad Testnet (Chain ID: 10143)
 - 🔧 Solidity Version: ^0.8.20
 - 📄 License: MIT
